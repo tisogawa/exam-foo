@@ -1,7 +1,8 @@
 {
-    "autoload": {
-        "psr-4": {
-            "Foo\\": "lib"
-        }
+  "name": "tisogawa/test-foo",
+  "autoload": {
+    "psr-4": {
+      "Foo\\": "lib"
     }
+  }
 }
