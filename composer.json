@@ -1,5 +1,5 @@
 {
-  "name": "tisogawa/test-foo",
+  "name": "cermari/test-foo",
   "autoload": {
     "psr-4": {
       "Foo\\": "lib"
