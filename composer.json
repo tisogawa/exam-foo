@@ -1,5 +1,6 @@
 {
   "name": "cermari/test-foo",
+  "type": "cakephp-plugin",
   "require": {
     "composer/installers": "~1.0"
   },
