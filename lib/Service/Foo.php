@@ -1,15 +1,11 @@
 <?php
 
-namespace Foo\Service;
+namespace Exam\Service;
 
 class Foo
 {
-    public static function main(array $args = array())
+    public function doSomething()
     {
-        var_dump(sprintf(
-            '%s::%s',
-            __CLASS__,
-            __FUNCTION__
-        ));
+        return __METHOD__;
     }
 }
