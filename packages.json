@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "exam/foo": {
+      "dev-master": {
+        @composer.json
+      }
+    }
+  }
+}
