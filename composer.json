@@ -11,5 +11,10 @@
     "psr-4": {
       "Exam\\": "lib"
     }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master#f2ed22371a458c8bd4d2a8d88747c2913917e390": "1.0.x-dev"
+    }
   }
 }

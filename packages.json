@@ -1,9 +1,0 @@
-{
-  "packages": {
-    "exam/foo": {
-      "v1.0.0": {
-        @composer.json
-      }
-    }
-  }
-}
